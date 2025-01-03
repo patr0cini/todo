@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zé Eduardo's 2025 To-Do List</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: left;
+    }
+    table th {
+      background-color: #0073e6;
+      color: white;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      margin: 10px 0;
+    }
+    .checkbox-label {
+      cursor: pointer;
+    }
+    .checkbox-label input[type="checkbox"] {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Zé Eduardo's 2025 To-Do List</h1>
+
+  <h2>Daily Habits</h2>
+  <ul>
+    <li>
+      <label class="checkbox-label">
+        <input type="checkbox"> 30 min of daily exercise
+      </label>
+    </li>
+    <li>
+      <label class="checkbox-label">
+        <input type="checkbox"> Drink 2L of water
+      </label>
+    </li>
+    <li>
+      <label class="checkbox-label">
+        <input type="checkbox"> Dedicate 1 hour of quality family time
+      </label>
+    </li>
+    <li>
+      <label class="checkbox-label">
+        <input type="checkbox"> Write daily to-do list
+      </label>
+    </li>
+    <li>
+      <label class="checkbox-label">
+        <input type="checkbox"> 15 min of prayer/devotional time
+      </label>
+    </li>
+    <li>
+      <label class="checkbox-label">
+        <input type="checkbox"> Read 10 pages of a book
+      </label>
+    </li>
+    <li>
+      <label class="checkbox-label">
+        <input type="checkbox"> Practice chess puzzles
+      </label>
+    </li>
+  </ul>
+
+  <h2>Priorities Table</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Priority</th>
+        <th>Focus Areas</th>
+        <th>Distractions to Avoid</th>
+        <th>Preparations Needed</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Health & Fitness</td>
+        <td>Weight loss, overall fitness, and energy improvement</td>
+        <td>Skipping workouts, unhealthy snacking, late-night eating</td>
+        <td>Create a workout schedule; plan weekly meals with healthy options</td>
+      </tr>
+      <tr>
+        <td>Parenting</td>
+        <td>Preparing for Aurora's arrival; balancing time with family</td>
+        <td>Overcommitting to other activities; ignoring self-care</td>
+        <td>Finalize baby-related essentials; plan routines with your wife</td>
+      </tr>
+      <tr>
+        <td>Work-Life Balance</td>
+        <td>Manage vineyard interests, optimize We Garden operations</td>
+        <td>Excessive time on non-critical tasks; procrastination</td>
+        <td>Delegate tasks effectively; set up tools to track productivity</td>
+      </tr>
+      <tr>
+        <td>Faith & Personal Growth</td>
+        <td>Deepen your Christian journey; read and reflect on meaningful books</td>
+        <td>Overconsumption of irrelevant media or distractions</td>
+        <td>Select a reading list for the year; schedule quiet time for prayer/meditation</td>
+      </tr>
+      <tr>
+        <td>Recreational Activities</td>
+        <td>Improve skills in surfing, climbing, and chess</td>
+        <td>Overworking or saying "yes" to too many commitments</td>
+        <td>Schedule surfing and climbing sessions; keep a chess app or board accessible</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
